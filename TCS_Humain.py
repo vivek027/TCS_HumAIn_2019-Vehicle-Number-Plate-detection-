@@ -4,14 +4,12 @@ Event   : TCS Humain 2019
 Category: Object detection & OCR
 '''
 # All necessary imports
-import requests
 import numpy as np
 import pandas as pd
 from PIL import Image
 import pytesseract
 import urllib
 import cv2
-import os
 import json
 
 
