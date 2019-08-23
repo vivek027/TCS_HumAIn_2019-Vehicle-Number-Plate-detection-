@@ -15,3 +15,5 @@ Steps to run this code:-
 2. Download the code and put both the files(code and data set) in the same directory, after importing all the libraries.
 3. The code will generate the result for the given data set.
 4. exit.
+
+NOTE:- As data-set contain urls the result will take some time to evaluate each query depending upon the internet speed.
