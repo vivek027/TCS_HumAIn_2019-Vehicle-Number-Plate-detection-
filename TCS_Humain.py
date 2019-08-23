@@ -1,6 +1,7 @@
 '''
-@author: Vivek Kumar Yadav
-Event  : TCS Humain 2019
+@author : Vivek Kumar Yadav
+Event   : TCS Humain 2019
+Category: Object detection & OCR
 '''
 # All necessary imports
 import requests
@@ -57,7 +58,7 @@ def ExtractNumbers(List):
 # It is requires later to train the program 
 Images =[] #declaring Images to store all the images of queries
 Plates =[] #declaring Plates to store the cropped part of Image given in the JSON input file
-Numbers=[]
+Numbers=[] #declaring Numbers to store the results
 
 #main method
 if __name__== "__main__":
