@@ -4,7 +4,7 @@ Category: Object detection & OCR.
 
 Steps to run this code:-
 
-1. Install Tesseract OCR in ur machine from the given url https://github.com/tesseract-ocr/tesseract/wiki/Downloads and restart system if it is not working after installing this.
+1. Install Tesseract OCR in your machine from the given url https://github.com/tesseract-ocr/tesseract/wiki/Downloads and restart system if it is not working after installing this.
 
 2. Import 
     -numpy as np      : Numpy library to generate the coordinates of the image.    
