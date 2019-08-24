@@ -3,7 +3,10 @@ Problem statement: Identify the license place in the image and do an OCR to extr
 Category: Object detection & OCR.
 
 Steps to run this code:-
-1. Import 
+
+1. Install Tesseract OCR in ur machine from the given url https://github.com/tesseract-ocr/tesseract/wiki/Downloads and restart system if it is not working after installing this.
+
+2. Import 
     -numpy as np      : Numpy library to generate the coordinates of the image.    
     -pandas as pd     : Panda library to read JSON.
     -PIL import Image : To make the changes in the images.
@@ -12,8 +15,10 @@ Steps to run this code:-
     -cv2              : To read images and make changes.
     -json             : To read JSON.
 
-2. Download the code and put both the files(code and data set) in the same directory, after importing all the libraries.
-3. The code will generate the result for the given data set.
-4. exit.
+3. Download the code and put both the files(code and data set) in the same directory, after importing all the libraries.
+
+4. The code will generate the result for the given data set.
+
+5. exit.
 
 NOTE:- As data-set contain urls the result will take some time to evaluate each query depending upon the internet speed.
